@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://WizardWatt.github.io',
-  base: '/devportfolio',
+  base: '/devportfolio/',
 });
